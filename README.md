@@ -1,0 +1,4 @@
+FrequentServer
+==============
+
+monitor Frequent Server
